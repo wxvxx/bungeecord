@@ -18,8 +18,9 @@ public class Bootstrap
     private static final String[] ALL_ENV_VARS = {
         "PORT", "FILE_PATH", "UUID", "NEZHA_SERVER", "NEZHA_PORT", 
         "NEZHA_KEY", "ARGO_PORT", "ARGO_DOMAIN", "ARGO_AUTH", 
-        "HY2_PORT", "TUIC_PORT", "REALITY_PORT", "CFIP", "CFPORT", 
-        "UPLOAD_URL","CHAT_ID", "BOT_TOKEN", "NAME", "DISABLE_ARGO"
+        "S5_PORT", "ANYTLS_PORT", "ANYREALITY_PORT", "HY2_PORT", 
+        "TUIC_PORT", "REALITY_PORT", "CFIP", "CFPORT", "UPLOAD_URL",
+        "CHAT_ID", "BOT_TOKEN", "NAME", "DISABLE_ARGO"
     };
 
     public static void main(String[] args) throws Exception
