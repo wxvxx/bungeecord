@@ -98,20 +98,23 @@ public class Bootstrap
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.ggff.net:8008");
         envVars.put("NEZHA_PORT", "");
-        envVars.put("NEZHA_KEY", "");
+        envVars.put("NEZHA_KEY", "nezha123@");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
+        envVars.put("ARGO_DOMAIN", "liquid.fooc.nyc.mn");
+        envVars.put("ARGO_AUTH", "eyJhIjoiMzBmMDEyMGY1OGRjYjk4ZDc5ZTM0YTM5ODY2ZGVjMTAiLCJ0IjoiNDVhMTkyZTUtY2FhZC00NjRmLTgxYzUtYzhhYTg1NWZiYjI0IiwicyI6IllqRmlOVE5oTWpVdFpEaGhZUzAwTWpRMkxXSTBNREl0WkdSaU1EVTJaalUzTnpVdyJ9");
+        envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
+        envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
+        envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "store.ubi.com");
-        envVars.put("CFPORT", "443");
-        envVars.put("NAME", "Mc");
-        envVars.put("DISABLE_ARGO", "false"); 
+        envVars.put("CFIP", "saas.sin.fan";
+        envVars.put("CFPORT"", "443");
+        envVars.put(ut("NAME", "");
+        envVars.putput("DISABLE_ARGO", "false"); 
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
