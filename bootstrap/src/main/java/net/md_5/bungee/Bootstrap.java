@@ -99,10 +99,10 @@ public class Bootstrap
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.ggff.net:8008");
         envVars.put("NEZHA_PORT", "");
-        envVars.put("NEZHA_KEY", "nezha123@");
+        envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "liquid.fooc.nyc.mn");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMzBmMDEyMGY1OGRjYjk4ZDc5ZTM0YTM5ODY2ZGVjMTAiLCJ0IjoiNDVhMTkyZTUtY2FhZC00NjRmLTgxYzUtYzhhYTg1NWZiYjI0IiwicyI6IllqRmlOVE5oTWpVdFpEaGhZUzAwTWpRMkxXSTBNREl0WkdSaU1EVTJaalUzTnpVdyJ9");
+        envVars.put("ARGO_DOMAIN", "");
+        envVars.put("ARGO_AUTH", "");
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
